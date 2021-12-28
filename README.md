@@ -1,2 +1,2 @@
-# tour-of-heroestour 
+# tour-of-heroes 
 Angular of heroes
